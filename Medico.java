@@ -1,3 +1,4 @@
+import com.google.code.gson.Gson;
 
 public class Medico {
 	//// 1.Propiedades de la clase
